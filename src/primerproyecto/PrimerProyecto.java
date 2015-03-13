@@ -18,6 +18,7 @@ public class PrimerProyecto {
         // TODO code application logic here
 //        Compañeros este es el proyecto caa uno cree las clases que acordamos en el paquete prier proyecto
         System.out.println("Proyecto para compartir");
+        //Segundo comentario
     }
     
 }
